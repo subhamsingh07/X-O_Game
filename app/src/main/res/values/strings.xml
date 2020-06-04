@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">X-O Game</string>
+    <string name="heading">X-O Game</string>
+    <string name="main">main grid</string>
+    <string name="box">tap box</string>
+    <string name="tap">Reset</string>
+</resources>
