@@ -3,7 +3,7 @@
 
 <br />
 <br />   Its a single activity android game for local mutiplayer.
-<br />   It is a normal Tic Tac Toe game designed by me...
+<br />   It is a normal Tic Tac Toe game...
 <br />   Great Tic Tac Toe Android game.. Clone and start playing
 
 <br />  Introduction about Tic Tac Toe
